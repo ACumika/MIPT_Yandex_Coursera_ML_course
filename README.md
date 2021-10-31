@@ -7,7 +7,7 @@ Here I will post my progress on the course and keep all the files for my persona
 I am always open to discuss some questions on the material that I have, as well as to help you to understand some topic that I already went through. 
 
 ## Course 1. [Mathematics and Python for data analysis](https://soon.com)
-- Introduction кака)) - *Week 1* 
+- Introduction - *Week 1* 
 - Python libraries and linear algebra - *Week 2* 
 - Optimization and matrices - *Week 3* 
 - Probability - *Week 4* 
